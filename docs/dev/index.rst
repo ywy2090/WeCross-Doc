@@ -7,7 +7,7 @@
    :maxdepth: 1
    
    interchain.md
-   sdk.md
    api.md
+   sdk.md
    stub.md
    rpc.md
